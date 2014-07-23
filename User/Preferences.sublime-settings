@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/User/Dawn (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active",
+		"draw_normal"
+	],
+	"translate_tabs_to_spaces": true,
+	"copy_with_empty_selection": false
+}
