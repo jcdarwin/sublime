@@ -1,5 +1,10 @@
 {
-	"color_scheme": "Packages/User/Dawn (SL).tmTheme",
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Afterglow-monokai (SL).tmTheme",
+	"copy_with_empty_selection": false,
+	"fade_fold_buttons": false,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -9,6 +14,10 @@
 		"draw_active",
 		"draw_normal"
 	],
-	"translate_tabs_to_spaces": true,
-	"copy_with_empty_selection": false
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"tabs_medium": true,
+	"tabs_padding_medium": true,
+	"theme": "Afterglow.sublime-theme",
+	"translate_tabs_to_spaces": true
 }

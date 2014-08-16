@@ -3,6 +3,7 @@
 	[
 		"Alignment",
 		"BracketHighlighter",
+		"dired",
 		"Gist",
 		"Goto Documentation",
 		"Indent XML",
@@ -14,6 +15,7 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-phpcs",
-		"SyncedSideBar"
+		"SyncedSideBar",
+		"Theme - Afterglow"
 	]
 }
