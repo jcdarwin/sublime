@@ -3,7 +3,10 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/Afterglow-monokai (SL).tmTheme",
 	"copy_with_empty_selection": false,
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
+	"fallback_encoding": "UTF-8",
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -16,8 +19,14 @@
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 4,
 	"tabs_medium": true,
 	"tabs_padding_medium": true,
-	"theme": "Afterglow.sublime-theme",
-	"translate_tabs_to_spaces": true
+    "theme": "Afterglow.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
