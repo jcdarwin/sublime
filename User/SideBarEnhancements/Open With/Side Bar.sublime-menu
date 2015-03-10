@@ -11,8 +11,8 @@
 				"command": "side_bar_files_open_with",
 				"args": {
 									"paths": [],
-									"application": "Adobe Photoshop CS5.app", // OSX
-									"extensions":"psd|png|jpg|jpeg"  //any file with these extensions
+									"application": "Adobe Photoshop CC.app", // OSX
+									"extensions":"psd|png|jpg|jpeg|gif"  //any file with these extensions
 								},
 				"open_automatically" : false // will close the view/tab and launch the application
 			},

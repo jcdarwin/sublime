@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Ebook conversion 2015 by <a href="http://mebooks.co.nz">meBooks</a>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>conversion</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
